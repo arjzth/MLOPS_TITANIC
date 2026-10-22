@@ -1,0 +1,9 @@
+pandas 
+numpy
+setuptools
+redis
+apache-airflow-providers-postgres
+apache-airflow-providers-google
+psycopg2
+scikit-learn
+imbalanced-learn

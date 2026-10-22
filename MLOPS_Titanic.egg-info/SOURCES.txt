@@ -1,0 +1,16 @@
+README.md
+setup.py
+MLOPS_Titanic.egg-info/PKG-INFO
+MLOPS_Titanic.egg-info/SOURCES.txt
+MLOPS_Titanic.egg-info/dependency_links.txt
+MLOPS_Titanic.egg-info/requires.txt
+MLOPS_Titanic.egg-info/top_level.txt
+config/__init__.py
+config/database_config.py
+config/paths_config.py
+pipeline/__init__.py
+src/__init__.py
+src/custom_exceptions.py
+src/data_ingestion.py
+src/feautre_store.py
+src/logger.py

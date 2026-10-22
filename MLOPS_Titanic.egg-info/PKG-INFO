@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: MLOPS-Titanic
+Version: 0.1
+Author: Arjun
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: setuptools
+Requires-Dist: redis
+Requires-Dist: apache-airflow-providers-postgres
+Requires-Dist: apache-airflow-providers-google
+Requires-Dist: psycopg2
+Requires-Dist: scikit-learn
+Requires-Dist: imbalanced-learn
+Dynamic: author
+Dynamic: requires-dist
